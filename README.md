@@ -1,0 +1,7 @@
+# Air Quality Data Analysis Dashboard ✨
+
+## Setup Environment
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
